@@ -1,0 +1,5 @@
+br\com\service\HelloWorldService.class
+br\com\domain\HelloWorld.class
+META-INF\panache-archive.marker
+br\com\repository\HelloWorldRepository.class
+br\com\resource\HelloWorldResource.class

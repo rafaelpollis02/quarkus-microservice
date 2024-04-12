@@ -1,0 +1,3 @@
+br\com\domain\HelloWorldPojo.class
+br\com\services\HelloWorldService.class
+META-INF\panache-archive.marker
